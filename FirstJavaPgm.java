@@ -4,6 +4,7 @@ public class FirstJavaPgm {
 		// TODO Auto-generated method stub
 		System.out.println("Vetrivel,   Veeravel");
 		System.out.println("Sakthivel,   Vairavel");
+		System.out.println("Palani,   Aandava");
 
 	}
 
