@@ -6,7 +6,7 @@ public class FirstJavaPgm {
 		System.out.println("Sakthivel,   Vairavel");
 		System.out.println("Palani,   Aandava");
 		System.out.println("changes from eclipse   zzzzzzzzzzzzz");
-//kutapaya  6-7-2023///////// today last update
+//kutapaya  6-7-2023///////// today last update    hfghfghfghf
 	}
 
 }
